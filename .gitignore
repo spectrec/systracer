@@ -1,0 +1,5 @@
+tracer
+
+*.o
+*.d
+*.swp
